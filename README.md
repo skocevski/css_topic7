@@ -14,4 +14,5 @@ This repository is a result of the Computational Social Science project at the U
 @bengalurean - Chiranth Manjunath <br/>
 @ - Jabid Ishtiaque <br/>
 @shohelahamad - Shohel Ahmad <br/>
+<b> corresponding author </b> <br/>
 @skocevski - Slobodan Kocevski <br/>
