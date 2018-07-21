@@ -13,6 +13,6 @@ This repository is a result of the Computational Social Science project at the U
 @lionasis - Ashish Singh Maharjan <br/>
 @bengalurean - Chiranth Manjunath <br/>
 @ - Jabid Ishtiaque <br/>
-@shohelahamad - Shohel Ahmad <br/>
+@shohelahamad - Shohel Ahmad <br/> <br/>
 <b> corresponding author </b> <br/>
 @skocevski - Slobodan Kocevski <br/>
