@@ -10,7 +10,7 @@ As a result of the overall project there has been:
 <uo>
 <li>Crawled computer science conference pages and downlaoded conference speakers images (904)</li>
 <li>Created web application tool where human ratings for the speakers attractivness were gathered</li>
-<li>Generated plots showing the distribution and relation of the scores from humans and automated scoring for the attractivness</li>
+<li>Generated plots showing the distribution and corelation of the scores from humans and automated scoring for the attractivness</li>
   </ul>
 
 <h3> Corelation between automated attractivness score and human ratings </h3>
