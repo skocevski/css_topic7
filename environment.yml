@@ -61,6 +61,9 @@ dependencies:
   - zeromq=4.2.5=h439df22_0
   - zlib=1.2.11=ha838bed_2
   - pip:
+    - beautifulsoup4==4.6.0
+    - counter==1.0.0
     - sightengine==1.4.0
+    - xlrd==1.1.0
 prefix: /home/slobodan/anaconda3/envs/binder_env
 
