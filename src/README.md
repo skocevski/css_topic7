@@ -12,13 +12,38 @@
   </thead>
   <tbody>
      <tr>
+      <td>conf_url_list</td>
       <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>unique_conf_set</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+         <tr>
+      <td>speakerspage_set</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+             <tr>
+      <td>imgurls_set</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+                 <tr>
+      <td>checkforspeakers_set</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
 
 
 <h3>02-automated-scoring.ipynb</h3>
