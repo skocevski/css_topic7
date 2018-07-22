@@ -16,9 +16,9 @@ As a result of the overall project there has been:
 <h3> Corelation between automated attractivness score and human ratings </h3>
 
 <h3> Authors </h3>
-@lionasis - Ashish Singh Maharjan () <br/>
-@bengalurean - Chiranth Manjunath () <br/>
-@ - Jabid Ishtiaque () <br/>
-@shohelahamad - Shohel Ahmad () <br/> <br/>
+@lionasis - Ashish Singh Maharjan (<a href="mailto:asis@uni-koblenz.de">asis@uni-koblenz.de</a>) <br/>
+@bengalurean - Chiranth Manjunath (<a href="mailto:chiranth@uni-koblenz.de">chiranth@uni-koblenz.de</a>) <br/>
+@ - Jabid Ishtiaque (<a href="mailto:jabidishtiaque@uni-koblenz.de">jabidishtiaque@uni-koblenz.de</a>) <br/>
+@shohelahamad - Shohel Ahmad (<a href="mailto:shohel@uni-koblenz.de">shohel@uni-koblenz.de</a> ) <br/> <br/>
 <b> corresponding author </b> <br/>
 @skocevski - Slobodan Kocevski (<a href="mailto:skocevski@uni-koblenz.de">skocevski@uni-koblenz.de</a>) <br/>
