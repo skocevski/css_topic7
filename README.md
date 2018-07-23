@@ -5,7 +5,7 @@ This repository is a result of the Computational Social Science project at the U
 
 <h3>Folder structure</h3>
 Overall project is logically splitted into several folders. <br/>
-<i>data:</i> serves to store all the cralwed pictures from confrence speakers<br/>
+<i>data:</i> serves to store all the crawled pictures from confrence speakers<br/>
 <i>docs:</i> for the report<br/>
 <i>output:</i> is where csv and xml files are placed storing the human and api ratings<br/> 
 <i>plots:</i> for saving the plots<br/>
