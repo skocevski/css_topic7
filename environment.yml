@@ -1,5 +1,6 @@
 name: binder_env
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - asn1crypto=0.24.0=py36_0
@@ -29,6 +30,7 @@ dependencies:
   - mkl_random=1.0.1=py36h629b387_0
   - ncurses=6.1=hf484d3e_0
   - numpy=1.14.2=py36hdbf6ddf_1
+  - matplotlib=2.2.2=py36_1
   - openssl=1.0.2o=h20670df_0
   - pandas=0.22.0=py36hf484d3e_0
   - parso=0.2.0=py36_0
@@ -67,4 +69,3 @@ dependencies:
     - sightengine==1.4.0
     - xlrd==1.1.0
 prefix: /home/slobodan/anaconda3/envs/binder_env
-
