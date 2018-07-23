@@ -3,6 +3,14 @@
 <h3> Brief description </h3>
 This repository is a result of the Computational Social Science project at the University of Koblenz-Landau, Germany. The project was carried out by a team of master students, attending Web Science or Mathematical Modelling, with the goal to measure the differences between male and female conference speakers in regard to their pictures.
 
+<h3>Folder structure</h3>
+Overall project is logically splitted into several folders. 
+<i>data:</i> serves to store all the cralwed pictures from confrence speakers
+<i>docs:</i> for the report
+<i>output:</i> is where csv and xml files are placed storing the human and api ratings 
+<i>plots:</i> for saving the plots
+<i>src:</i> conains all the script numerated by the order of execution
+
 <h3> Authors </h3>
 @lionasis - Ashish Singh Maharjan (<a href="mailto:asis@uni-koblenz.de">asis@uni-koblenz.de</a>) <br/>
 @bengalurean - Chiranth Manjunath (<a href="mailto:chiranth@uni-koblenz.de">chiranth@uni-koblenz.de</a>) <br/>
@@ -11,4 +19,3 @@ This repository is a result of the Computational Social Science project at the U
 <b> corresponding author </b> <br/>
 @skocevski - Slobodan Kocevski (<a href="mailto:skocevski@uni-koblenz.de">skocevski@uni-koblenz.de</a>) <br/>
 
-<h3>Folder structure</h3>
