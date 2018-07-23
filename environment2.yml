@@ -3,14 +3,39 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - ca-certificates=2018.4.16=0
+  - certifi=2018.4.16=py36_0
+  - cycler=0.10.0=py_1
+  - dbus=1.13.0=h3a4f0e9_0
+  - expat=2.2.5=hfc679d8_1
+  - fontconfig=2.13.0=h074f895_2
+  - freetype=2.8.1=0
+  - icu=58.2=hfc679d8_0
+  - jpeg=9c=h470a237_0
+  - kiwisolver=1.0.1=py36_1
+  - libiconv=1.15=h470a237_1
+  - libpng=1.6.34=ha92aebf_1
+  - libuuid=1.0.3=1
+  - libxcb=1.13=h470a237_2
+  - libxml2=2.9.8=h422b904_2
+  - matplotlib=2.2.2=py36_1
+  - openssl=1.0.2o=0
+  - pcre=8.41=1
+  - pthread-stubs=0.4=h470a237_1
+  - pyparsing=2.2.0=py_1
+  - pyqt=5.6.0=py36h8210e8a_6
+  - sip=4.18=py36_1
+  - xorg-libxau=1.0.8=h470a237_6
+  - xorg-libxdmcp=1.1.2=h470a237_6
   - asn1crypto=0.24.0=py36_0
   - backcall=0.1.0=py36_0
-  - ca-certificates=2018.03.07=0
-  - certifi=2018.4.16=py36_0
   - cffi=1.11.5=py36h9745a5d_0
   - chardet=3.0.4=py36_1
   - cryptography=2.2.2=py36h14c3975_0
   - decorator=4.3.0=py36_0
+  - glib=2.53.6=h5d9569c_2
+  - gst-plugins-base=1.12.4=h33fb286_0
+  - gstreamer=1.12.4=hb53b477_0
   - idna=2.7=py36_0
   - intel-openmp=2018.0.0=8
   - ipykernel=4.8.2=py36_0
@@ -30,8 +55,6 @@ dependencies:
   - mkl_random=1.0.1=py36h629b387_0
   - ncurses=6.1=hf484d3e_0
   - numpy=1.14.2=py36hdbf6ddf_1
-  - matplotlib=2.2.2=py36_1
-  - openssl=1.0.2o=h20670df_0
   - pandas=0.22.0=py36hf484d3e_0
   - parso=0.2.0=py36_0
   - pexpect=4.5.0=py36_0
@@ -47,6 +70,7 @@ dependencies:
   - python-dateutil=2.7.3=py36_0
   - pytz=2018.4=py36_0
   - pyzmq=17.0.0=py36h14c3975_0
+  - qt=5.6.2=hd25b39d_14
   - readline=7.0=ha6073c6_4
   - requests=2.19.1=py36_0
   - scipy=1.1.0=py36hfc37229_0
@@ -63,10 +87,5 @@ dependencies:
   - xz=5.2.3=h5e939de_4
   - zeromq=4.2.5=h439df22_0
   - zlib=1.2.11=ha838bed_2
-  - pip:
-    - beautifulsoup4==4.6.0
-    - counter==1.0.0
-    - sightengine==1.4.0
-    - xlrd==1.1.0
 prefix: /home/slobodan/anaconda3/envs/binder_env
 
